@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <mainClass>com.kodedu.terminalfx.TerminalAppStarter</mainClass>
         <pty4j.version>0.8.6</pty4j.version>
-        <commons-lang3.version>3.9</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <jackson.version>2.9.8</jackson.version>
         <javafx.version>12</javafx.version>
     </properties>
